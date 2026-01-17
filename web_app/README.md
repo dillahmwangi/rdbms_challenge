@@ -168,11 +168,10 @@ python app.py
 
 The API runs on:
 
-```
 http://127.0.0.1:5000
 ```
 
----
+
 
 ### 3. Run the Frontend
 
